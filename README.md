@@ -2,7 +2,7 @@
 
 ![format workflow](https://github.com/nogibjj/IDS706-Github-Matrix-YuhanXue/actions/workflows/cicd.yml/badge.svg)
 
-This is a Python script for the IDS706 Mini Project 2. The script reads a CSV dataset, calculates descriptive statistics, and generates a scatter plot visualization.
+This is a Python script for the IDS706 Mini Project 4. The script reads a CSV dataset, calculates descriptive statistics, and generates a scatter plot visualization.
 
 ## Getting Started
 Before running the script, please install all dependecies:
